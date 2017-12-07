@@ -6,8 +6,8 @@
 - 图形界面(Swing)
 
 ### Class 说明
-Client 前来办理的用户类
-Server 储蓄员类
-Chair 等待区椅子
-WaitingRoom 等待区 存放椅子
-StandingField 站区
+- Client 前来办理的用户类
+- Server 储蓄员类
+- Chair 等待区椅子
+- WaitingRoom 等待区 存放椅子
+- StandingField 站区
